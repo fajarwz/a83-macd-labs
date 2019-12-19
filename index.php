@@ -29,7 +29,7 @@
     $host = "fajardicodingserver.database.windows.net";
     $user = "fajarwz";
     $pass = "Fajarazuredb1";
-    $db = "regdb";
+    $db = "fajarwzregdb";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
