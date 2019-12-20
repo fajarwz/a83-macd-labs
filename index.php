@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "fajardicodingserver.database.windows.net";
+    $host = "fajarwzserver.database.windows.net";
     $user = "fajarwz";
     $pass = "Fajarazuredb1";
     $db = "fajarwzregdb";
